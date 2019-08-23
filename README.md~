@@ -3,7 +3,6 @@ Source-codes for the experiments over homology (Betti-numbers) consistency
 
 NOTE: The experiments were executed by using the Javaplex 4.0
 
-CODES:
 WitnessComplexDemo.java: Generates barcode plots and objects containing the persistence intervals;
 MultiplicityCriteria.java: Calculates the absolute difference of Betti number between original and perturbed data;
 RunMult.java: Generates the data with the absolute Betti number differences;
